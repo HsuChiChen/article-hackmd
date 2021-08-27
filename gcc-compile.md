@@ -1,7 +1,4 @@
 # GCC與編譯過程
-
-[![hackmd-github-sync-badge](https://hackmd.io/WqlivhrUT3eFH_HNLX-YYA/badge)](https://hackmd.io/WqlivhrUT3eFH_HNLX-YYA)
-
 ###### tags: `linux` `gcc編譯` `C` `C++`
 ###### 最後更新時間 : 2021/08/17
 
