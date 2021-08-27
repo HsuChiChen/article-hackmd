@@ -1,4 +1,7 @@
 # 陳旭祺的個人文章目錄
+
+[![hackmd-github-sync-badge](https://hackmd.io/UOWJyX8JSL-5LGwwtROiBA/badge)](https://hackmd.io/UOWJyX8JSL-5LGwwtROiBA)
+
 ###### tags: `目錄` `學習` `日記` `readme.md`
 ###### 最後更新時間 : 2021/08/27
 
@@ -8,18 +11,17 @@
 - [如何使用Modelsim進行數位電路模擬](https://hackmd.io/@HsuChiChen/modelsim)
 
 
-
 ## 日記
 - [2021讀書/生活日記](https://hackmd.io/@HsuChiChen/2021-log)
 - [2020年台綜大A10轉學考心得與一年後的回顧](https://hackmd.io/@HsuChiChen/transfer-log)
 - [以前是老高皇室戰爭頻道的粉絲](https://hackmd.io/@HsuChiChen/kuaizero)
+
 
 ## 未來規劃
 - [大學課程規劃](https://hackmd.io/@HsuChiChen/course-planning) (文章進度50%)
 
 
 ## 多媒體製作
-
 ### 筆記
 - [Adobe學習筆記](https://hackmd.io/@HsuChiChen/adobe-learning) (文章進度0%)
 - [電腦必裝軟體](https://hackmd.io/@HsuChiChen/software) (文章進度0%)
