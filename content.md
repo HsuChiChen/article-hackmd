@@ -1,7 +1,4 @@
 # 陳旭祺的個人文章目錄
-
-[![hackmd-github-sync-badge](https://hackmd.io/UOWJyX8JSL-5LGwwtROiBA/badge)](https://hackmd.io/UOWJyX8JSL-5LGwwtROiBA)
-
 ###### tags: `目錄` `學習` `日記` `readme.md`
 ###### 最後更新時間 : 2021/08/27
 
