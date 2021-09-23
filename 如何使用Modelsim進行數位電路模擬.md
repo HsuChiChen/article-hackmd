@@ -1,6 +1,6 @@
 # 如何使用Modelsim進行數位電路模擬
-###### tags:`Modelsim` `Verilog` `VHDL` `testbench` `電路模擬`
-###### 最後更新時間 : 2021/08/24
+###### tags:`modelsim` `verilog`
+###### 撰寫時間 : 2021/08/24
 
 ## 前言
 僅為測試小電路區塊方便用，Windows環境`makefile`、`shell script`、`unix-like`指令、`macro`展開都沒辦法用或是比較麻煩。實際還是要用學校工作站`linux`環境下`NC Verilog`、`Verdi`、`design vision`等一系列EDA tools進行模擬、合成。

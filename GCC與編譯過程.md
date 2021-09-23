@@ -1,6 +1,6 @@
 # GCC與編譯過程
-###### tags: `linux` `gcc編譯` `C` `C++`
-###### 最後更新時間 : 2021/08/17
+###### tags: `code` `gcc` `compile` `C`
+###### 撰寫時間 : 2021/08/17
 
 ## 流程圖
 ![Flowchart](https://i.imgur.com/x0eUstJ.png)
